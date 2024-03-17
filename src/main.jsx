@@ -8,7 +8,7 @@ import { Provider } from 'react-redux';
 import { ThemeProvider } from 'styled-components';
 import { theme } from './styles/theme.jsx';
 import {store, persistor} from "./redux/store.js"
-
+//ewewew
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
